@@ -220,6 +220,8 @@ go
 
 
 
+
+
 select d.DeptName, e.EmployeeName
 from Departments d, Employees e
 where d.EmployeeId = e.EmployeeId
